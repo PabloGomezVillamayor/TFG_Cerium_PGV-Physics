@@ -3,7 +3,7 @@
 En este repositorio se encuentran algunos materiales utilizados en la elaboración de mi Trabajo de Fin de Grado (TFG).
 En particular, se incluyen las gráficas presentadas en la memoria del trabajo a su resolución original.
 
-Dichas gráficas fueron generadas con el programa informático ``XMGrace'', a partir de las simulaciones realizadas con Machine Learning (ML).
+Dichas gráficas fueron generadas con el programa informático "XMGrace", a partir de datos obtenidos con simulaciones de Machine Learning (ML).
 
 -----------------------------------------------------------------
 
@@ -49,7 +49,9 @@ _________________________________________________________________
 
 
 In this repository, you will find some materials which were used in my Bachelor's Degree Thesis. 
-Specifically, the graphs included in the thesis report are provided at their original resolution. These figures were generated using the software ``XMGrace'', based on simulations performed with Machine Learning (ML).
+Specifically, the graphs included in the thesis report are provided at their original resolution. 
+
+These figures were generated using the software "XMGrace", based on data obtained from Machine Learning (ML) simulations.
 
 -----------------------------------------------------------------
 
